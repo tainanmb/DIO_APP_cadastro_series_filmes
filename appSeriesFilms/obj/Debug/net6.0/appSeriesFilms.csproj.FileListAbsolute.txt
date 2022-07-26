@@ -1,0 +1,15 @@
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\appSeriesFilms.csproj.AssemblyReference.cache
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\appSeriesFilms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\appSeriesFilms.AssemblyInfoInputs.cache
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\appSeriesFilms.AssemblyInfo.cs
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\appSeriesFilms.csproj.CoreCompileInputs.cache
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\bin\Debug\net6.0\appSeriesFilms.exe
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\bin\Debug\net6.0\appSeriesFilms.deps.json
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\bin\Debug\net6.0\appSeriesFilms.runtimeconfig.json
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\bin\Debug\net6.0\appSeriesFilms.dll
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\bin\Debug\net6.0\appSeriesFilms.pdb
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\appSeriesFilms.dll
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\refint\appSeriesFilms.dll
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\appSeriesFilms.pdb
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\appSeriesFilms.genruntimeconfig.cache
+E:\Workspace\DIO\dotNet e C#\Projetos\DIO_APP_cadastro_series_filmes\appSeriesFilms\obj\Debug\net6.0\ref\appSeriesFilms.dll
