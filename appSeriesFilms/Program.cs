@@ -9,8 +9,7 @@ namespace appSeriesFilms
         {
             SeriesRepository repository = new SeriesRepository();
             Methods startAction = new Methods(repository);
-            string userOption = startAction.GetUserOption();
-            startAction.InvokeAction(userOption);
+            startAction.InvokeAction();
            
         }
     }

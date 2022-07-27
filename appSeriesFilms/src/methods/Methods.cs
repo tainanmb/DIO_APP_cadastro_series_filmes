@@ -36,8 +36,9 @@ namespace appSeriesFilms.src.methods
             return userOption;
         }
 
-        public void InvokeAction(string userOption)
+        public void InvokeAction()
         {
+            string userOption = GetUserOption();
             while (userOption.ToUpper() != "X")
             {
                 switch (userOption)
